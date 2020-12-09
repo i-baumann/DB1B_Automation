@@ -1,12 +1,10 @@
 # DB1B downloading and cleaning
 
-The scripts in this repo were written in an attempt to replicate [a recent transportation economics paper](https://evergreen.loyola.edu/kmtan/www/Research/TacitCollusionSouthwestAirlines_KimKimTan.pdf), but are a useful baseline in general for downloading and cleaning the Dept. of Transportation's [DB1B](https://www.transtats.bts.gov/Tables.asp?DB_ID=125&DB_Name=Airline%20Origin%20and%20Destination%20Survey%20%28DB1B%29&DB_Short_Name=Origin%20and%20Destination%20Survey) and [T100](https://www.transtats.bts.gov/Tables.asp?DB_ID=111&DB_Name=Air%20Carrier%20Statistics%20%28Form%2041%20Traffic%29-%20All%20Carriers&DB_Short_Name=Air%20Carriers) data for empirical research projects.
+The scripts in this repo were written in an attempt to replicate summary statistics for [a recent transportation economics paper](https://evergreen.loyola.edu/kmtan/www/Research/TacitCollusionSouthwestAirlines_KimKimTan.pdf), but are a useful baseline in general for downloading and cleaning the Dept. of Transportation's [DB1B](https://www.transtats.bts.gov/Tables.asp?DB_ID=125&DB_Name=Airline%20Origin%20and%20Destination%20Survey%20%28DB1B%29&DB_Short_Name=Origin%20and%20Destination%20Survey) and [T100](https://www.transtats.bts.gov/Tables.asp?DB_ID=111&DB_Name=Air%20Carrier%20Statistics%20%28Form%2041%20Traffic%29-%20All%20Carriers&DB_Short_Name=Air%20Carriers) data for empirical research projects.
 
 **The authors of the paper use cleaning methods and decision rules that I do not endorse or necessarily agree with, so edit these scripts as needed.**
 
 These steps assume no prior knowledge of Bash or R scripting
-
-## Summary statistics
 
 **This entire process will likely take half a day or more to run, depending on your hardware**
 
