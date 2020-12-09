@@ -68,7 +68,7 @@ For those running Ubuntu or similar Linux flavors, see [this post](https://askub
 
 ### `hub.R`
 
-- This script creates the `hub` variable. Please see the Problems .pdf for a deeper explanation of this variable's creation.
+- This script creates the `hub` variable.
 
 ### `t100_loop.R`
 
