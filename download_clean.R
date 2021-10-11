@@ -27,7 +27,7 @@ library(blscrapeR)
 #######################################################
 # READ IF HAVING ISSUES WITH BTS DOWNLOADS
 #
-# The BTS server security is kind of crap, so you may need
+# The BTS server security is outdated, so you may need
 # to downgrade your SSL security settings in order to avoid
 # SSL/dh key errors
 #
